@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>codepkg</fullName>
+    <types>
+        <members>Contact.mailing__c</members>
+        <members>student__c.RollNo__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>student__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>student__c-student Layout</members>
+        <name>Layout</name>
+    </types>
+    <version>52.0</version>
+</Package>
