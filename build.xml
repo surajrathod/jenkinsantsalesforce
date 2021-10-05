@@ -51,8 +51,8 @@
     </target>
 
     <target name="deployt" depends="retrieveUnpackaged">
-      <sf:deploy username="${sf.username}"
-       password="${sf.password}"
+      <sf:deploy username="${sf.username2}"
+       password="${sf.password2}"
         sessionId="${sf.sessionId}"
          serverurl="${sf.serverurl}"
           maxPoll="${sf.maxPoll}" 
